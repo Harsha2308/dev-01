@@ -8,7 +8,7 @@
   <fileSets>
     <fileSet>
       <directory>/var/lib/jenkins/workspace/ci-job</directory>
-      <outputDirectory>/home/ec2-user/</outputDirectory>
+      <outputDirectory>/</outputDirectory>
       <includes>
         <include>mywebapp.war</include>
       </includes>
