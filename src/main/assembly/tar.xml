@@ -7,7 +7,7 @@
   </formats>
   <fileSets>
     <fileSet>
-      <directory>/var/lib/jenkins/workspace/ci-job</directory>
+      <directory>/var/lib/jenkins/workspace/dev-ci-job</directory>
       <outputDirectory>/</outputDirectory>
       <includes>
         <include>mywebapp.war</include>
