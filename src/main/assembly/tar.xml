@@ -7,10 +7,10 @@
   </formats>
   <fileSets>
     <fileSet>
-      <directory>/home/ec2-user/mywebapp</directory>
+      <directory>/var/lib/jenkins/workspace/ci-job</directory>
       <outputDirectory>/home/ec2-user/</outputDirectory>
       <includes>
-        <include>${project.build.finalName}.war</include>
+        <include>mywebapp.war</include>
       </includes>
     </fileSet>
   </fileSets>
